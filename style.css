@@ -204,11 +204,11 @@ animation: hamburger_puls 1s ease infinite;
         {
             0%,100%
             {
-                background-image: url(Mainbg.jpg);
+                background-image: url(./img/Mainbg.jpg);
             }
             10%
             {
-                background-image: url(Assassins.jpg);
+                background-image: url(./img/Assassins.jpg);
             }
             20%
             {
